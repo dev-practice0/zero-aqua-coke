@@ -26,3 +26,7 @@ header {
 body {
   font-family: GowunDodum-Regular;
 }
+
+#box p {
+  white-space: pre-wrap;
+}
